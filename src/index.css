@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: montserrat, sans-serif;
+}
+/*
+html {
+    height: 2000px;
+    background-color: red;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/64/Creaci%C3%B3n_de_Ad%C3%A1n_%28Miguel_%C3%81ngel%29.jpg);
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+}
+body {
+    height: 100%;
+    background-image: linear-gradient(#f65a5a, transparent 100%);
+    background-size: 100% 100%;
+    mix-blend-mode: difference;
+}
+ */
+
+
+/*
+body{
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 500%;
+    animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+ */
+
+.login-header {
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+    height: 50px;
+
+}
+
+.username {
+    color: crimson;
+    font-weight: bold;
+
+}
+
+.password {
+    color: crimson;
+    font-weight: bold;
+
+}
+
+.submit-button {
+    margin-left: auto;
+    margin-right: auto;
+}
+.error{
+    text-align: center;
+    color: red;
+    font-weight: bolder;
+    height: 50px;
+}
+.submit {
+    background: blue;
+    color: white;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.login-data {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
